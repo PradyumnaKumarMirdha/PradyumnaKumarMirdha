@@ -1,4 +1,4 @@
-![MasterHead](https://im.ezgif.com/tmp/ezgif-1-124e1a9a7c.gif)
+![MasterHead](https://github.com/PradyumnaKumarMirdha/PradyumnaKumarMirdha/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Pradyumna Kumar Mirdha</h1>
 <h3 align="center">An Ethical Hacker from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRlNGQxOGEwZTBjNjk1NTBmOGJhZGJlMDFkYWQ2NzIwMjc1OTE2YSZjdD1n/i1JHRZSXO9LZZDHqii/giphy.gif">
