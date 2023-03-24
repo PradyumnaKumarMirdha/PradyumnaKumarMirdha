@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pradyumna Kumar Mirdha</h1>
-<h3 align="center">An ethical hacker from India</h3>
+<h3 align="center">An Ethical Hacker from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRlNGQxOGEwZTBjNjk1NTBmOGJhZGJlMDFkYWQ2NzIwMjc1OTE2YSZjdD1n/i1JHRZSXO9LZZDHqii/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyumnakum&label=Profile%20views&color=0e75b6&style=flat" alt="pradyumnakum" /> </p>
 
