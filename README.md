@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pradyumna kumar mirdha" target="blank"><img src="https://img.shields.io/twitter/follow/pradyumna kumar mirdha?logo=twitter&style=for-the-badge" alt="pradyumna kumar mirdha" /></a> </p>
 
-- 🌱 I’m currently learning **Comptia Network+
+- 🌱 I’m currently learning **Comptia Network+**
 
 - 💬 Ask me about **Web & Network Hacking, Cyber Securtiy**
 
