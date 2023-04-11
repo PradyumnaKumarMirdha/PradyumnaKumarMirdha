@@ -23,7 +23,7 @@
 
 ## Working Environment
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-1793d1?style=flat-square&logo=kalilinux&logoColor=ffffff)
-![Redhat Linux](https://img.shields.io/badge/Red%20Hat-1793d1?style=flat-square&logo=redhat&logoColor=FF0000)
+![Redhat Linux](https://img.shields.io/badge/Red%20Hat-00000?style=flat-square&logo=redhat&logoColor=FF0000)
 ![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=fff)
 ![Windows](https://img.shields.io/badge/Windows-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
