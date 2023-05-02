@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Comptia Network+**
 
-- 💬 Ask me about **Web & Network Hacking, Cyber Securtiy**
+- 💬 Ask me about **Web & Network Hacking, Cyber Security**
 
 - 📫 How to reach me **Kumarmonpradyu2001@gmail.com**
 
